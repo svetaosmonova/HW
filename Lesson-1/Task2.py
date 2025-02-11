@@ -1,4 +1,4 @@
-print ('Привет мир!')
+print ('Привет мир! Сегодня лучший день')
 
 
 class MyTestCase(unittest.TestCase):
